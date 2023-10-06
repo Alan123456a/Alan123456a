@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning to code
 - 🌱 I’m currently learning nun
 - 💞️ I’m looking to collaborate on nun
-- 📫 How to reach me u cante
+- 📫 How to reach me u cant
 
 <!---
 Alan123456a/Alan123456a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
